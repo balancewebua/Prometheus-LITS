@@ -1,3 +1,13 @@
+//функція-стрілка
+let sum_ar = function(a, b) {
+  return a + b;
+}
+
+console.log(sum_ar(225, 90));
+
+let sum_true_ar = (a, b) => a + b;
+console.log(sum_true_ar(225, 90));
+
 //функція new
 let f = new Function("x", "y", "return x + y");
 console.log("New: ", f(3, 5));
