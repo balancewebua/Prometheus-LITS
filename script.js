@@ -1,5 +1,11 @@
+
 //функція-стрілка
-let sum_ar = function(a, b) {
+let sum_div_ar = (a, b) => a + b;
+
+console.log(sum_div_ar(225, 90));
+
+//функція-стрілка 11:40
+function sum_ar(a, b) {
   return a + b;
 }
 
