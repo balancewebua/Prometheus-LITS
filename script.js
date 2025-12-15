@@ -1,6 +1,6 @@
-
 //функція-стрілка
-let sum_div_ar = (a, b) => a + b;
+let sum_div_ar = (a, b);
+return a + b;
 
 console.log(sum_div_ar(225, 90));
 
