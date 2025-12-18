@@ -1,8 +1,14 @@
-//функція-стрілка
-let sum_div_ar = (a, b);
-return a + b;
 
-console.log(sum_div_ar(225, 90));
+//функція-стрілка
+// let fAr = (a, b) {
+//   return a + b;
+// }
+
+//функція-стрілка
+// let sum_div_ar = (a, b);
+// return a + b;
+
+// console.log(sum_div_ar(225, 90));
 
 //функція-стрілка 11:40
 function sum_ar(a, b) {
