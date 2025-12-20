@@ -1,3 +1,6 @@
+//функція стрілка
+let fArr = (a, b) => a + b;
+console.log(fArr(3, 5));
 
 //функція-стрілка
 // let fAr = (a, b) {
