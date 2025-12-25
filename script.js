@@ -1,5 +1,8 @@
 
 //функція-стрілка
+let fArr6 = (a, b) => a + b;
+console.log("fArr6(6, 9) => ", fArr6(6, 9));
+
 let fArr5 = (a, b) => a + b;
 console.log('fArr5(5, 8) => ', fArr5(5, 8));
 
