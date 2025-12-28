@@ -1,3 +1,7 @@
+//функція-стрілка
+let fArr8 = (a, b) => a + b;
+console.log("fArr8(8, 11) => ", fArr8(8, 11));
+
 
 //функція-стрілка
 let fArr7 = (a, b) => a + b;
