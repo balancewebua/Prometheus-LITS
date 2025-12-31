@@ -1,11 +1,13 @@
+let fArr10 = (a) => a + 13;
+console.log("fArr10(10) => ", fArr10(10));
+
 //функція-стрілка
 let fArr9 = (a, b) => a + b;
-console.log('fArr9(9, 12) => ', fArr9(9, 12));
+console.log("fArr9(9, 12) => ", fArr9(9, 12));
 
 //функція-стрілка
 let fArr8 = (a, b) => a + b;
 console.log("fArr8(8, 11) => ", fArr8(8, 11));
-
 
 //функція-стрілка
 let fArr7 = (a, b) => a + b;
@@ -15,7 +17,7 @@ let fArr6 = (a, b) => a + b;
 console.log("fArr6(6, 9) => ", fArr6(6, 9));
 
 let fArr5 = (a, b) => a + b;
-console.log('fArr5(5, 8) => ', fArr5(5, 8));
+console.log("fArr5(5, 8) => ", fArr5(5, 8));
 
 // функція-стрілка
 let fArr4 = (a, b) => a + b;
