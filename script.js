@@ -1,3 +1,6 @@
+let fArr11 = (a) => a + 14;
+console.log("fArr11(11) => ", fArr11(11));
+
 let fArr10 = (a) => a + 13;
 console.log("fArr10(10) => ", fArr10(10));
 
