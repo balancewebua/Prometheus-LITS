@@ -1,4 +1,6 @@
 
+let fArr17 = a => a + 20;
+
 let fArr16 = a => a + 19;
 console.log("fArr16(16) => ", fArr16(16));
 
