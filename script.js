@@ -1,10 +1,12 @@
+let fArr18 = (a) => a + 21;
+console.log("fArr18(18) => ", fArr18(18));
 
-let fArr17 = a => a + 20;
+let fArr17 = (a) => a + 20;
 
-let fArr16 = a => a + 19;
+let fArr16 = (a) => a + 19;
 console.log("fArr16(16) => ", fArr16(16));
 
-let fArr15 = a => a + 18;
+let fArr15 = (a) => a + 18;
 console.log("fArr15(15) => ", fArr15(15));
 
 let fArr14 = (a) => a + 17;
