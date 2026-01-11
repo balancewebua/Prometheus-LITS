@@ -1,3 +1,10 @@
+
+let fArr20 = a => a + 23;
+console.log("fArr20(20) => ", fArr20(20));
+
+let fArr19 = a => a + 22;
+console.log("fArr19(19) => ", fArr19(19));
+
 let fArr18 = (a) => a + 21;
 console.log("fArr18(18) => ", fArr18(18));
 
