@@ -1,4 +1,7 @@
 
+let fArr23 = () => console.log('fArr23() => ', 'Stay strong..');
+fArr23();
+
 let fArr21 = a => a + 24;
 let fArr22 = () => console.log("fArr(21) => ", fArr21(21));
 fArr22();
