@@ -1,3 +1,19 @@
+let fArr29 = () => console.log("fArr29() => ", "Coding..");
+fArr29();
+
+let fArr28 = () => console.log("fArr28() => ", "Push up!");
+
+let fArr27 = () => console.log("fArr27() => ", "Speak..");
+fArr27();
+
+let fArr26 = () => console.log("fArr26() => ", "Run");
+fArr26();
+
+let fArr25 = () => console.log("fArr25() => ", "You're going well..")
+fArr25();
+
+let fArr24 = () => console.log("fArr24() => ", "Fight!");
+fArr24();
 
 let fArr23 = () => console.log('fArr23() => ', 'Stay strong..');
 fArr23();
