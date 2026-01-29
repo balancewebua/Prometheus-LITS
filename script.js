@@ -1,3 +1,7 @@
+
+let fArr30 = () => console.log("fArr30 => ", "Do it!..");
+fArr30();
+
 let fArr29 = () => console.log("fArr29() => ", "Coding..");
 fArr29();
 
