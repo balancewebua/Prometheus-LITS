@@ -1,4 +1,7 @@
 
+let fArr34 = () => console.log("fArr34 > ", "Vibe");
+fArr34();
+
 let fArr33 = () => console.log("fArr33 => ", "Code!");
 fArr33();
 
